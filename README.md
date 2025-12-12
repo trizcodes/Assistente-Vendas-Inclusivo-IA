@@ -131,7 +131,7 @@ O projeto foi modelado com foco em acessibilidade desde o início:
 A arquitetura abaixo é conceitual e está documentada em  
 `diagrama-assistente-de-vendas.png`.
 
-![Diagrama de Arquitetura em AWS](diagrama-assistente-de-vendas.png)
+![Diagrama de Arquitetura em AWS](docss/diagrama-assistente-de-vendas.png)
 
 Resumo dos componentes planejados:
 
@@ -205,7 +205,7 @@ Resumo dos componentes planejados:
     ├── main.js                        # Lógica da aplicação e acessibilidade
     ├── style.css                      # Estilos complementares (ex.: modo alto contraste)
     ├── losartana.jpg                  # Imagem de exemplo de medicamento
-├── docs/
+├── docss/
 │   ├── TCC-Final-Grupo5.pdf       # Documento do TCC
 │   ├── Calculadora-de-Preco.pdf   # Estimativa de custos na AWS
 │   └── Diagrama-TCC5-drawio-fundobranco.png  # Diagrama de arquitetura
